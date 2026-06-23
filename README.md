@@ -41,12 +41,18 @@
 
 ```yaml
 name: Likith Gajula
+```
 
-current_focus:
+```bash
+0xz1nn ✦ ~
+❯ current_ops
+```
+```yaml
   - Active Directory
   - Red Teaming
   - Offensive Security
 ```
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=0xz1nn&label=HANDSHAKES&color=ff404d&style=for-the-badge">
 <br>
