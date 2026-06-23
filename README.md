@@ -20,7 +20,7 @@
 </a>
 
 <a href="https://x.com/0xz1nn">
-<img src="https://img.shie  lds.io/badge/x-111111?style=flat-square&logo=x&logoColor=white">
+<img src="https://img.shields.io/badge/x-111111?style=flat-square&logo=x&logoColor=white">
 </a>
 
 <a href="https://bsky.app/profile/0xz1nn.bsky.social">
@@ -40,7 +40,7 @@
 ```
 
 ```yaml
-name: Likith Gajula
+name: LIKITH GAJULA 
 ```
 
 ```bash
