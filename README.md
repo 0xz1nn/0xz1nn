@@ -40,7 +40,7 @@
 ```
 
 ```yaml
-name: LIKITH GAJULA 
+LIKITH GAJULA 
 ```
 
 ```bash
