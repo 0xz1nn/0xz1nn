@@ -78,7 +78,7 @@ LIKITH GAJULA
 <br>
 
 <p align="center">
-      SIGNAL PERSISTS
+      SIGNAL PERSISTS...
 </p>
 
 
