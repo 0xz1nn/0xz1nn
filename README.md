@@ -66,9 +66,9 @@ LIKITH GAJULA
 
 ## Transfixed_At_Terminal
 
-*forelsket in the elegance of understanding*
+*forelsket in the craft of stealth*
 
-⚡source: ojas
+⚡ ojas-fueled
 
 
 
