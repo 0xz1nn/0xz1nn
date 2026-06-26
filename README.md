@@ -68,7 +68,7 @@ LIKITH GAJULA
 
 *forelsket in the craft of stealth*
 
-⚡ ojas-fueled
+⚡ ojas ❯❯ rising
 
 
 
