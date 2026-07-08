@@ -7,7 +7,13 @@
 
 <br>
 
+<div align="center">
+
+<code>↗ <a href="https://0xz1nn.github.io">0xz1nn.github.io</a> · personal site</code>
+ <!--<sub>research • write-ups • notes</sub>-->
 </div>
+
+</div> 
 
 <div align="center">
 
