@@ -49,8 +49,6 @@ LIKITH GAJULA
 ```
 ```yaml
   - Active Directory
-  - Red Teaming
-  - Offensive Security
 ```
 
 <div align="center">
@@ -64,22 +62,12 @@ LIKITH GAJULA
 <br>
 <div align="center">
 
-## Transfixed_At_Terminal
-
-*forelsket in the craft of stealth*
-
-⚡ ojas ❯❯ rising
-
-
+ Transfixed_At_Terminal
 
 </div>
 
 
-<br>
 
-<p align="center">
-      SIGNAL PERSISTS...
-</p>
 
 
 
