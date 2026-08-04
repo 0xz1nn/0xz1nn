@@ -39,6 +39,11 @@
 
 </div>
 
+ <!-- while (!mastery) {
+    learn();
+    build();
+    repeat();
+} -->
 
 ```bash
 0xz1nn ✦ ~
@@ -49,13 +54,14 @@
 LIKITH GAJULA 
 ```
 
+
+
 ```bash
 0xz1nn ✦ ~
-❯ current_
+❯ current_ priorities
 ```
 ```yaml
 - Active Directory
-- Windows Internals
 - Command & Control (C2)
 ```
 
@@ -69,8 +75,7 @@ LIKITH GAJULA
 </div>
 <br>
 <div align="center">
-
- Transfixed_At_Terminal
+Entropy is inevitable || Learning is optional.
 
 </div>
 
