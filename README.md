@@ -51,10 +51,12 @@ LIKITH GAJULA
 
 ```bash
 0xz1nn ✦ ~
-❯ current_ops
+❯ current_
 ```
 ```yaml
-  - Active Directory
+- Active Directory
+- Windows Internals
+- Command & Control (C2)
 ```
 
 <div align="center">
